@@ -36,8 +36,7 @@
 ---------------------------------------
 
 ### ⚙️ Setup
-> Run Checker To Get List Of Usernames Then Run Main To Claim Them.
-+ `python3 checker.py`
+> Run main.py to claim usernames
 + `python3 main.py`
 
 ---------------------------------------
