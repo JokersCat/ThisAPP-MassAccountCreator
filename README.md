@@ -66,6 +66,9 @@
 ### 📜 ChangeLog
 
 ```diff
+v0.0.2 : 6/12/2020
++ Made all in 1 file
+
 v0.0.1 ⋮ 6/10/2022
 + Uploaded First Version
 ```
